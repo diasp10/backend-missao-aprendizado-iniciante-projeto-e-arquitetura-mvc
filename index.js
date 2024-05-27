@@ -6,7 +6,7 @@ const port = 3000
 
 //Preparamos as informacoes de acesso ao banco de dados
 const dburl = process.env.DATABASE_URL
-const dbname = `MongoDB-Intro-e-Implementacao`
+const dbname = `projeto-e-arquitetura-mvc`
 
 //Declaramos a funcao main()
 async function main() {
